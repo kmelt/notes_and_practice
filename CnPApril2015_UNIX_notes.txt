@@ -1,0 +1,6 @@
+@n8foo -- Nathan Hubbard
+
+http://cli.learncodethehardway.org/book
+
+Ruby Beginners Meetup
+
